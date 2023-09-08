@@ -1,1 +1,0 @@
-Download [CMake](https://cmake.org/install/).
