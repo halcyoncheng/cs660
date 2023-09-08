@@ -1,1 +1,1 @@
-Download [CMake](https://cmake.org/install/#macOS).
+Download [CMake](https://cmake.org/install/).
